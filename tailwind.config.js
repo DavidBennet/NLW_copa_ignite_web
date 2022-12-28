@@ -9,6 +9,11 @@ module.exports = {
         oswald: 'Oswald, sans-serif',
         lobster: 'Lobster, sans-serif',
       },
+
+      backgroundImage: {
+        app: 'url(/app-bg.png)',
+      },
+
       colors: {
         verde: {
           500: '#129E57',

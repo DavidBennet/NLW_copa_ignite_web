@@ -9,7 +9,7 @@ export default function Document() {
                 <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@400;500;700&display=swap" rel="stylesheet"/>
 
             </Head>
-            <body className="bg-[#121214] text-white">
+            <body className="bg-[#121214] text-white bg-app bg-cover bg-no-repeat">
                 <Main/>
                 <NextScript/>
             </body>
